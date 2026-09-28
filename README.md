@@ -6,12 +6,6 @@ I'm currently studying Informatics Engineering at Universitas Padjadjaran.
 I enjoy learning programming by building small projects and experimenting
 with C++ and Python.
 
-### 🔭 Currently working on
-- 🎰 C++ Gacha Waifu
-- 🎮 Simple C++ Games
-- 🐍 Learning Python
-- 🧠 Learning Recursion & Algorithms
-
 ### 🌱 Currently learning
 `C++` `Python` `Git` `GitHub` `Algorithms` `Data Structures`
 
