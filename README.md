@@ -1,5 +1,32 @@
-# 💫 About Me:
-# 👋 Hi, I'm Fahmi!<br><br>🎓 Informatics Engineering Student at Universitas Padjadjaran  <br>💻 Currently learning C++ and programming fundamentals  <br>🎮 Interested in game development and technology<br><br>---<br><br>## 🚀 About Me<br><br>- 🌱 Currently learning **C++** and **Python**<br>- 🧠 Learning about **Algorithms & Data Structures**<br>- 🎮 Interested in making simple games<br>- 💡 Enjoy building small programming projects<br>- 📚 Always trying to learn something new<br><br>---<br><br>## 🛠️ Languages & Tools<br><br><p><br>  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" /><br></p><br>
+# Hi, I'm Fahmi 👋
+
+> Informatics Engineering Student | C++ & Python Beginner
+
+I'm currently studying Informatics Engineering at Universitas Padjadjaran.
+I enjoy learning programming by building small projects and experimenting
+with C++ and Python.
+
+### 🔭 Currently working on
+- 🎰 C++ Gacha Waifu
+- 🎮 Simple C++ Games
+- 🐍 Learning Python
+- 🧠 Learning Recursion & Algorithms
+
+### 🌱 Currently learning
+`C++` `Python` `Git` `GitHub` `Algorithms` `Data Structures`
+
+### 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+</p>
+
+### 🎯 2026 Goals
+- Get better at C++ and Python
+- Build more projects
+- Learn Data Structures & Algorithms
+- Learn other programming languages
+- Contribute to open-source projects
 
 
 ## 🌐 Socials:
